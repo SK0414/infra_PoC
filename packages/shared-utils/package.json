@@ -1,0 +1,15 @@
+{
+  "name": "@sk/shared-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "clean": "rm -rf node_modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
